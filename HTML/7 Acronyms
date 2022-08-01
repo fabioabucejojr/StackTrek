@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+    <title>Acronyms</title>
+    <style>
+        abbr { 
+          display: inline;
+        } 
+        </style>
+</head>
+<body>
+    <h1>Acronyms</h1><br>
+    <p><abbr title="Barking Orders So Snidely">BOSS</abbr></p><br>
+    <p><abbr title="Do I Eat Today?">DIET</abbr></p><br>
+    <p><abbr title="Forget About It, Loser">FAIL</abbr></p><br>
+    <p><abbr title="Having Anger Towards Everyone Reaching Success">HATERS</abbr></p><br>
+    <p><abbr title="Heartthrob Usefully Serving Bond And Never Deserting">HUSBAND</abbr></p><br>
+    <p><abbr title="Loss Of Valuable Energy">LOVE</abbr></p><br>
+    <p><abbr title="Mother Actually In Disguise">MAID</abbr></p><br>
+    <p><abbr title="No Attire; Keep Eyes Averted">NAKED</abbr></p><br>
+    <p><abbr title="Stuff To Remember Every Single Second">STRESS</abbr></p><br>
+    <p><abbr title="Worries Invited For Ever">WIFE</abbr></p>
+</body>
+</html>
