@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Resume</title>
+</head>
+<body>
+
+<h2>Online Resume</h2>
+
+<table border="0px" align="center" width:"25%">
+  <tr>
+    <td align="center" colspan="5"><h1>Fabio Abucejo Jr</h1></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5"><h3>City, Philippines 6000</h3></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5"><h3>(+63) 961-230-7853</h3></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><strong>Objective</strong></td>
+    <td align="center" colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="4">I help Vegan/Plant-based | Construction Business Owners turn leads into customers through #SocialMediaOptimization.</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><strong>Experience</strong></td>
+    <td align="center" colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="3">2012-Present</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="4">Mystery Shopper. Albatross CX. Audited brands to measure relevant indicators that assess the impact of the brand on customers/users that includes both monetary and non-monetary considerations.</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="3">Sept-Nov 2013</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="4">Data Collector. DS Publishing. Developed new business leads via email and niche forum sites to introduce the product and identify prospective buyers within the target market. Follow up on leads and conduct research to identify potential prospects. Built and cultivated prospect relationships by initiating communications through email. Managed data for new and prospective clients, ensure all information is accurate and no duplicates.</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="3">Jul-Sept 2013</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="4">Data Collector. Strategic Marketing Ventures Phils. Developed new business prospects through various online job sites and social media sites using Boolean search paramaters.      Follow up on leads and conduct research to identify potential prospects. Ensures emails won't get flagged as spam when doing email marketing. Successful working in a team environment, as well as independently
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="3">Jun-Oct 2012</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="4">Content Editing/Posting in WordPress. Upwork. After doing a little editing, I searched and found details of colleges and posted the content on the client's WordPress website.      Should have little understanding of WordPress and good with the English language. Part-time job, per day 1000 words, which shall not take more than 2 hours as most of the work will be copy-paste type.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><strong>Education</strong></td>
+    <td align="center" colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="3">Nov 2002-May 2004</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="4">Graduate of 2year, Diploma Course: Computer Systems, Design and Programming from AMA Computer Learning Center, Mandaue City. </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><strong>Interests</strong></td>
+    <td align="center" colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="3">Nov 2002-May 2004</td>
+  </tr>
+  <tr>
+    <td align="right">&nbsp;</td>
+    <td align="left" colspan="4">Graduate of 2year, Diploma Course: Computer Systems, Design and Programming from AMA Computer Learning Center, Mandaue City. </td>
+  </tr>
+</table>
+</body>
+</html>
