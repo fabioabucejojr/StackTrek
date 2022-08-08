@@ -1,0 +1,15 @@
+body {
+    background-color: #5B7FBD;
+}
+h2 {
+    font-family: Impact, fantasy;
+}
+ul li {
+    text-align: center;
+    font-family: Arial ;
+    list-style-position: inside;
+}
+p {
+    font-family: Arial;
+    font-size: 12px;
+}
