@@ -1,0 +1,33 @@
+body {
+    background-color: #E2AC7F;
+}
+
+table, th {
+	font-family: Impact, fantasy;
+    border: 4px dotted;
+	text-align: center;
+	font-style: italic;
+}
+table {
+	margin-left: 400px;
+	margin-right: 100px;
+	background-color: #f5f5dc;
+	border-collapse: collapse;
+	width: 50%;
+}
+th, td {
+  padding: 5px;
+}
+p {
+    font-family: arial;
+    font-size: 12px;
+}
+#first {
+	text-align: justify;
+}
+#second {
+	text-align: center;
+}
+#third {
+	text-align: center;
+}
